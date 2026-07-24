@@ -81,7 +81,7 @@ To get a unique "fingerprint" of the extracted file, we used **HashMyFiles**, a 
 
 **Answer: `8350582774E1D4DBE1D61D64C89E0EA1`**
 
-An MD5 hash works like a fingerprint — if even a single byte of the file changed, this value would come out completely different. This proves we have the exact, unmodified file, and lets anyone else verify they have the same one.
+An MD5 hash works like a fingerprint if even a single byte of the file changed, this value would come out completely different. This proves we have the exact, unmodified file, and lets anyone else verify they have the same one.
 
 ## Question 6: What is the secret recipe?
 
